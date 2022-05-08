@@ -1,0 +1,14 @@
+
+                Class Program{
+                    Var k:Float=1.1;
+                    main(m,b:Int){
+                        
+                    }
+                    main(x,y : Int) {
+                        Var x :Int=1;
+                    }
+                }
+                Class notAProgram{
+                    main() {}
+                }
+        
